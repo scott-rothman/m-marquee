@@ -28,11 +28,11 @@ class MMarquee extends HTMLElement {
 
       @keyframes marquee {
         from {
-          left: -100%;
+          left: 100%;
         }
 
         to {
-          left: 100%;
+          left: -100%;
         }
       }
 
