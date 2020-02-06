@@ -8,7 +8,7 @@ class MMarquee extends HTMLElement {
     wrapper.classList.add('wrapper');
     text.classList.add('text');
 
-    text.innerText = this.innerHTML;
+    text.innerHTML = this.innerHTML;
 
     const duration = text.innerText.length * .2;
 
