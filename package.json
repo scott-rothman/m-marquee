@@ -2,7 +2,7 @@
   "name": "m-marquee",
   "version": "1.0.0",
   "description": "A custom HTML element to replace the now obsolete marquee tag",
-  "main": "index.js",
+  "main": "m-marquee.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

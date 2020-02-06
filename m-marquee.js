@@ -23,6 +23,7 @@ class MMarquee extends HTMLElement {
         animation: marquee ${duration}s linear;
         animation-iteration-count: infinite;
         position: relative;
+        white-space: nowrap;
       }
 
       @keyframes marquee {
