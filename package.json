@@ -1,0 +1,19 @@
+{
+  "name": "m-marquee",
+  "version": "1.0.0",
+  "description": "A custom HTML element to replace the now obsolete marquee tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-rothman/m-marquee.git"
+  },
+  "author": "Scott Rothman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-rothman/m-marquee/issues"
+  },
+  "homepage": "https://github.com/scott-rothman/m-marquee#readme"
+}
