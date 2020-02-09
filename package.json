@@ -1,6 +1,6 @@
 {
   "name": "m-marquee",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom HTML element to replace the now obsolete marquee tag",
   "main": "m-marquee.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/scott-rothman/m-marquee/issues"
   },
+  "keywords": "marquee, custom element, obsolete tag",
   "homepage": "https://github.com/scott-rothman/m-marquee#readme"
 }
